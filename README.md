@@ -1,5 +1,4 @@
 # 2018-1-OSS-E3
-## Kiwi(지능형 한국어 형태소 분석기) 
 ## Improving Performance of Kiwi(Intelligent Analyzer of Korean morpheme)
 
 ### Introduction
@@ -7,7 +6,7 @@
 
 ### Updated History
 #### v0.1 : first release. About 80% accuracy.
-#### v0.2 : 
+#### v0.2 : improved accuracy up to 85%.
 
 > Our Static Page : https://18-1-skku-oss.github.io/2018-1-OSS-E3/
 
